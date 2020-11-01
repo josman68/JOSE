@@ -1,6 +1,6 @@
 body {
     color: blue;
-    background-color: #d8da3d }
+    background-color: orange }
 p{
 	font-size:1em;
     line-height:1.5em;
@@ -10,7 +10,7 @@ header {
 	width:100%;
 	padding:20 px;
 	box-shadow: 0px 0px 15px #333;
-	text-align:center;
+	text-align:CENTER;
 }	
 header h1 {
 	
@@ -43,7 +43,7 @@ section h2{
 	border:3px solid #fff;
 	border-radius:50%;
 	margin-top:-80px;
-	
-	
-	
 }
+	
+    
+	
